@@ -1,0 +1,22 @@
+.block{
+    width: 300px;
+}
+.block_1{
+    width: 100%;
+}
+
+
+.block_2{
+    width: 50px;
+    display: inline-block;
+    margin-right: 40px;
+    
+}   
+
+.block_3{
+    width: 200px;
+    display: inline-block;
+}
+.block_4{
+    width: 100%;
+}
